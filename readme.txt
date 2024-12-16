@@ -1,2 +1,1 @@
-This repository contains the code to replicate the experiments in our work ``Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective", which was carried out in collaboration with Neda M. Jouzdani Victor M. Panaretos, and was published in
-Stochastic Processes and their Applications in 2024
+This repository contains the code to replicate the experiments in our work ``Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective", which was carried out in collaboration with Neda M. Jouzdani Victor M. Panaretos, and was published in Stochastic Processes and their Applications in 2024
